@@ -26,3 +26,15 @@
 - Comparison operators
 - Logical operators
 - Making decisions using conditions
+
+## Day 4 — Randomisation and Python Lists
+
+- Random module
+- Generating random numbers
+- Python lists
+- Adding items to lists
+- Appending items to lists
+- List indexing
+- Working with nested lists
+- Handling `IndexError`
+- Building a Rock Paper Scissors game
