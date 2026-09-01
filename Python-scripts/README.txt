@@ -38,3 +38,12 @@
 - Working with nested lists
 - Handling `IndexError`
 - Building a Rock Paper Scissors game
+
+## Day 5 — Python Loops
+
+- `for` loops with Python lists
+- Finding the highest score
+- `range()` function
+- Using `for` loops with `range()`
+- FizzBuzz
+- Creating a Password Generator
