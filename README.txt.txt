@@ -3,6 +3,6 @@ Branch: Mechanical Engineering
 Goal: Building a portfolio for MS applications in Europe
 
 Projects I'll add here:
-- RC Car
+- Robotics projects
 - Fusion 360 CAD designs
 - Python scripts
