@@ -1,46 +1,30 @@
-# Engineering-portfolio
+<doctype html>
+
+<h1 align="center">Hi 👋, I'm suhant ganiger</h1>
+
+<h3 align="center">I'm a Mechanical engineering student</h3>
 
 
 
+\- 📫 How to reach me \*\*suhantganiger67@gmail.com\*\*
 
 
 
+<h3 align="left">Connect with me:</h3>
 
-\# Suhant Ganiger — Engineering Portfolio
+<p align="left">
 
+<a href="https://instagram.com/suhant\_ganiger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhant\_ganiger" height="30" width="40" /></a>
 
-
-Mechanical Engineering Student | Pune, India
-
-Target: MS in Robotics/Mechatronics | Europe (2028)
-
-
-
-\## About Me
-
-First year ME student documenting my learning journey
-
-toward a master's degree in Germany or Netherlands.
+</p>
 
 
 
-\## What's Here
+<h3 align="left">Languages and Tools:</h3>
 
-\- CAD-designs/ → Fusion 360 projects
+<p align="left"> <a href="https://www.arduino.cc/" target="\_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.python.org" target="\_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-\- Python/      → Scripts and mini projects  
-
-\- RC-car/      → My first hardware build
-
-\- Semester-notes/ → Key learnings each semester
+</doctype html
 
 
-
-\## Current Focus
-
-\- Learning Fusion 360
-
-\- Building RC car
-
-\- Python basics
 
