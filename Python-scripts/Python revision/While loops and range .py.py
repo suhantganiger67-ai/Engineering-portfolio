@@ -1,6 +1,6 @@
-# # practice exercise 4
+# practice exercise 4
 
-# # # print all odd numbers from 1 to 20
+# print all odd numbers from 1 to 20
 for i in range(1, 21):
     if i % 2 != 0:
         print(i)  # --> 1st way
@@ -26,7 +26,7 @@ for i in range(1, 51):
         print(i)
 
 
-# take teo integers a and b as input then find and print the fist number betwwen 1 to 1000 that is devisible by both a and b
+# take teo integers a and b as input then find and print the fist number between 1 to 1000 that is devisible by both a and b
 
 a = int(input("Enter the first integer: "))
 b = int(input("Enter the second integer: "))
