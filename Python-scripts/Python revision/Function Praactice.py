@@ -1,33 +1,33 @@
 # write a function to check if a number is odd or even
 
-# import random
+import random
 
 
-# number = random.randint(1, 10)
-# print(number)  # Generate a random number between 1 and 10
+number = random.randint(1, 10)
+print(number)  # Generate a random number between 1 and 10
 
 
-# def check_odd_even(number):
-#     if number % 2 == 0:
-#         print("Even")
+def check_odd_even(number):
+    if number % 2 == 0:
+        print("Even")
 
 
-# check_odd_even(5)  # Example usage
+check_odd_even(5)  # Example usage
 
 
-# # write a funtion to count the number of vowels in a string
+# write a funtion to count the number of vowels in a string
 
-# def count_vowels(string):
-#     vowels = "aeiouAEIOU"
-#     count = 0
-#     for char in string:
-#         if char in vowels:
-#             count += 1
-#     return count
+def count_vowels(string):
+    vowels = "aeiouAEIOU"
+    count = 0
+    for char in string:
+        if char in vowels:
+            count += 1
+    return count
 
 
-# count = count_vowels("Hello World")
-# print("Number of vowels:", count)  # Example usage
+count = count_vowels("Hello World")
+print("Number of vowels:", count)  # Example usage
 
 
 # write a function to pint a number is prime or not
