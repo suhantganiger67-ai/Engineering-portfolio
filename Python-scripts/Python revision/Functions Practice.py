@@ -134,3 +134,16 @@ def count_uppercase(string):
 
 
 count_uppercase("PyThOn Is FuN")
+
+
+# find the position of a specific character in a string using .index() method
+
+def find_character_position(string, target):
+    try:
+        position = string.index(target)
+        print(f'The position of "{target}" in "{string}" is: {position}')
+    except ValueError:
+        print(f'"{target}" not found in "{string}"')
+
+
+find_character_position("hello world", "o")
