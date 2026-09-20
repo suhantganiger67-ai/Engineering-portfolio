@@ -1,4 +1,4 @@
-# practice exercise 4
+# practice exercise 4 for loops
 
 # print all odd numbers from 1 to 20
 for i in range(1, 21):
