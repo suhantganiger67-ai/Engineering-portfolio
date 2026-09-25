@@ -83,4 +83,4 @@ This repository is a record of my learning process and an evolving part of my en
 ---
 
 ⭐ *This portfolio will continue to grow as I take on more complex engineering designs and projects.*
-h
+hope it grows smoothly and shows consistency 
