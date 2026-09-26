@@ -47,3 +47,5 @@
 - Using `for` loops with `range()`
 - FizzBuzz
 - Creating a Password Generator
+
+## Day 6 - struggled with loops so practiced loops and functions together 
